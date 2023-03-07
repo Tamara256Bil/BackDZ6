@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="17da2c21-4847-402c-bcb8-c7701248415b" name="Changes" comment="" />
+    <list default="true" id="17da2c21-4847-402c-bcb8-c7701248415b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/RetrofitUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/GetCategoryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CreateProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GetCategoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExampleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExampleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/db/CategoriesMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/db/CategoriesMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/db/ProductsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/db/ProductsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/db/model/Categories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/db/model/Categories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/db/model/CategoriesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/db/model/CategoriesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/db/model/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/db/model/Products.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/db/model/ProductsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/db/model/ProductsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapper/CategoriesMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mapper/CategoriesMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapper/ProductsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mapper/ProductsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MgryESoovRq7DRDi93YmTxDMqn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,5 +66,16 @@
       <updated>1678200320897</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
